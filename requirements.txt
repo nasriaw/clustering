@@ -1,5 +1,6 @@
 streamlit
 plotly
+matplotlib
 #plotly.express
 #collections
 #urllib.error
