@@ -1,8 +1,10 @@
 streamlit
 plotly
 matplotlib
-#plotly.express
-#collections
-#urllib.error
+numpy
+pandas
+seaborn
+time
+io
 pandas
 xlrd
